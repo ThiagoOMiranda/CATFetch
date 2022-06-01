@@ -28,7 +28,7 @@ body {
     position: relative;
     z-index: -10;
     background-color: #36D1DC;
-    background-image: url("../img/sun-tornado.svg");
+    background-image: url("./img/sun-tornado.svg");
     background-attachment: fixed;
     background-size: cover;
     /* background by SVGBackgrounds.com */
@@ -456,7 +456,7 @@ span:nth-child(1) {
     height: 3rem;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("../img/dio_logo.svg");
+    background-image: url("./img/dio_logo.svg");
     margin-left: 1.5rem;
     background-size: 85%;
     border-radius: 0.75rem;
