@@ -54,7 +54,7 @@ https://codepen.io/manz/pen/yLbrpGV.
 </h2>
 
 
-<p align="center"><img width="500" src="./img/resultado.jpg"/>
+<p align="center"><img width="500" src="./img/mydog.gif"/>
 
 <p align="center">Figura 02: Resultado da atividade.</p>
 
